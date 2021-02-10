@@ -1,2 +1,2 @@
 # hello-world
-This is an example repository
+Well, Im a programmer who likes to code videogames, designe apps and web sites  
